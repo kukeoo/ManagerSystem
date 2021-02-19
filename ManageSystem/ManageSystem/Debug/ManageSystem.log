@@ -1,0 +1,6 @@
+﻿  workerManager.cpp
+C:\Users\asus\Desktop\C++\ManageSystem\ManageSystem\workerManager.cpp(232,9): warning C4102: “case1”: 未引用的标签
+C:\Users\asus\Desktop\C++\ManageSystem\ManageSystem\workerManager.cpp(235,9): warning C4102: “case2”: 未引用的标签
+  职工管理系统.cpp
+  正在生成代码...
+  ManageSystem.vcxproj -> C:\Users\asus\Desktop\C++\ManageSystem\Debug\ManageSystem.exe
